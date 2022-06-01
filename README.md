@@ -16,7 +16,7 @@ Se desarrolló la aplicación web con [ReactJS] y [TypeScript] además se utiliz
 npm install
 ```
 
-- Paso 3: Ejecute el seguiente comando dentro del cmd "npm run dev".
+- Paso 3: Ejecute el seguiente comando dentro del cmd "npm run dev" para levantar el proyecto en modo de desarrollo.
 
 ```console
 npm run dev
